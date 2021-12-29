@@ -20,6 +20,5 @@ Recursos
 - Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and techniques. Morgan Kaufmann.
 - Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews.
 - Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business Media.
-- Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
 - Tutorial de Github https://guides.github.com/activities/hello-world.
 
